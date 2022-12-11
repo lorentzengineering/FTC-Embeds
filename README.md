@@ -15,8 +15,8 @@ To use it simply add the following to your HTML
 # Iframes
 
 ## Rankings
-
-To display the rankings of a competition use the following
+The rankings ellement will show a list of all teams in a event and the current ranking, when a team has driven more matches thant the average a warning sign will apear in front of it. <br>
+To display the rankings of a competition use the following:
 
 ```html
 <iframe src="https://lorentzengineering.nl/iframes/rankings"></iframe>
