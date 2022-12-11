@@ -19,7 +19,7 @@ To use it simply add the following to your HTML
 To display the rankings of a competition use the following
 
 ```html
-<iframe src="https://lorentzengineering.nl/iframes/rankings?event=2122-CMP-HOU1"></iframe>
+<iframe src="https://lorentzengineering.nl/iframes/rankings"></iframe>
 ```
 ### Options
 
