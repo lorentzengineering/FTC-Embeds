@@ -2,7 +2,7 @@
 
 A IFrame library anyone can use to display FTC Stats for any team/competition
 
-# IMPORTANT
+# !! Beta !!
 This is still in beta, so the urls don't work yet. I will update this when they do.
 U can still use the embeds, but you will have to use ``beta.lorentzengineering.nl`` instead of ``lorentzengineering.nl``
 # Usage
