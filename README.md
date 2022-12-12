@@ -3,8 +3,7 @@
 A IFrame library anyone can use to display FTC Stats for any team/competition
 
 # !! Beta !!
-This is still in beta, so the urls don't work yet. I will update this when they do.
-U can still use the embeds, but you will have to use ``beta.lorentzengineering.nl`` instead of ``lorentzengineering.nl``
+Some features are in beta, to use beta features, use ``beta.lorentzengineering.nl`` instead of ``lorentzengineering.nl``
 # Usage
 
 To use it simply add the following to your HTML
@@ -14,12 +13,12 @@ To use it simply add the following to your HTML
 ```
 # Iframes
 
-## Rankings
+## Rankings (beta)
 The rankings ellement will show a list of all teams in a event and the current ranking, when a team has driven more matches thant the average a warning sign will apear in front of it. <br>
 To display the rankings of a competition use the following:
 
 ```html
-<iframe src="https://lorentzengineering.nl/iframes/rankings"></iframe>
+<iframe src="https://beta.lorentzengineering.nl/iframes/rankings"></iframe>
 ```
 ### Options
 
@@ -36,7 +35,7 @@ To display the rankings of a competition use the following:
 | autoScrollTeamsAmount | The amount of teams above the highlighted team    | 4             |
 ## More comming soon
 Features planned (not in order):
-- [x] Rankings
+- [x] Rankings (beta)
 - [ ] Matches
 - [ ] Awards
 - [ ] Team information
