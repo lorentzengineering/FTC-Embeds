@@ -36,12 +36,13 @@ To display the rankings of a competition use the following:
 ## More comming soon
 Features planned (not in order):
 - [x] Rankings (beta)
+- [x] Url Generator (beta)
 - [ ] Matches
 - [ ] Awards
 - [ ] Team information
-- [ ] Url Generator
+
 
 # Generator
 
-For a generator go to: https://lorentzengineering.nl/iframes/generator (comming soon)
+For a generator go to: https://beta.lorentzengineering.nl/iframes/generator (beta)
 
