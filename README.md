@@ -13,12 +13,12 @@ To use it simply add the following to your HTML
 ```
 # Iframes
 
-## Rankings (beta)
+## Rankings
 The rankings ellement will show a list of all teams in a event and the current ranking, when a team has driven more matches thant the average a warning sign will apear in front of it. <br>
 To display the rankings of a competition use the following:
 
 ```html
-<iframe src="https://beta.lorentzengineering.nl/iframes/rankings"></iframe>
+<iframe src="https://lorentzengineering.nl/iframes/rankings"></iframe>
 ```
 ### Options
 
@@ -35,8 +35,8 @@ To display the rankings of a competition use the following:
 | autoScrollTeamsAmount | The amount of teams above the highlighted team    | 4             |
 ## More comming soon
 Features planned (not in order):
-- [x] Rankings (beta)
-- [x] Url Generator (beta)
+- [x] Rankings
+- [x] Url Generator
 - [ ] Matches
 - [ ] Awards
 - [ ] Team information
@@ -44,5 +44,5 @@ Features planned (not in order):
 
 # Generator
 
-For a generator go to: https://beta.lorentzengineering.nl/iframes/generator (beta)
+For a generator go to: https://lorentzengineering.nl/iframes/generator
 
